@@ -1,3 +1,5 @@
+
+
 public class gcd {
     static int hcf(int a,int b,int n){
         if(n==1) return 1;
